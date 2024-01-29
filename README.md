@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/JAYSONRK/Four-card-feature-section)
-- Live Site URL: [live site URL](https://jaysonrk.github.io/Four-card-feature-section/)
+- Solution URL: [solution URL](https://github.com/JAYSONRK/Article_preview_component_netlify)
+- Live Site URL: [live site URL](https://inquisitive-starlight-7d8aa3.netlify.app/)
 
 
 ### Built with
