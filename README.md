@@ -11,7 +11,7 @@
 
 ## overview
 
-This is a React.js project with html, css ad javascript.
+This is a React.js project with html, css and javascript.
 
 ## features
 
