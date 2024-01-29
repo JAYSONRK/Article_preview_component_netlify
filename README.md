@@ -22,7 +22,7 @@ Users should be able to:
 
 
 ### screenshot
-![Four card feature section](./design/desktop-preview.jpg)
+![Article preview component](./design/desktop-preview.jpg)
 
 
 ### Links
